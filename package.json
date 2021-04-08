@@ -1,0 +1,19 @@
+{
+  "name": "course-npm",
+  "version": "1.0.0",
+  "description": "Construir un paquete para node",
+  "main": "src/index.js",
+  "scripts": {},
+  "keywords": [
+    "JavaScript",
+    "node",
+    "package",
+    "npm"
+  ],
+  "author": "David Borrayo <davidalejandroborrayo@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
